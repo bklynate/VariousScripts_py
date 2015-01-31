@@ -28,10 +28,3 @@ while True:
 	continue
 
 show_list()
-
-
-
-
-
-
-
